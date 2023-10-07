@@ -1,5 +1,3 @@
-ANT
-ANT
-ANT
-ANT
-ANT
+A
+B
+C
